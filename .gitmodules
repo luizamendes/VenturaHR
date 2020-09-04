@@ -1,0 +1,3 @@
+[submodule "VenturaHR-client"]
+	path = VenturaHR-client
+	url = https://github.com/luizamendes/VenturaHR-client.git
