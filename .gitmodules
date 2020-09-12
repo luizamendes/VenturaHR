@@ -1,3 +1,6 @@
 [submodule "VenturaHR-client"]
 	path = VenturaHR-client
 	url = https://github.com/luizamendes/VenturaHR-client.git
+[submodule "VenturaHR-API"]
+	path = VenturaHR-API
+	url = https://github.com/luizamendes/VenturaHR-API.git
